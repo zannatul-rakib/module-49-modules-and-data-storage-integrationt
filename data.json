@@ -1,37 +1,37 @@
 [
   {
     "id": "644acdf7dff3ea3348dffb0a",
-    "price": "$3,317.21",
+    "price": 3317,
     "picture": "http://placehold.it/32x32",
     "name": "Richmond Cantu"
   },
   {
     "id": "644acdf70cdbf2e96b098553",
-    "price": "$3,920.67",
+    "price": 3920,
     "picture": "http://placehold.it/32x32",
     "name": "Hines Mcneil"
   },
   {
     "id": "644acdf7fb58f757f7ed6cf2",
-    "price": "$3,618.25",
+    "price": 3618,
     "picture": "http://placehold.it/32x32",
     "name": "Audrey Francis"
   },
   {
     "id": "644acdf7c4f502463424c293",
-    "price": "$3,196.71",
+    "price": 3196,
     "picture": "http://placehold.it/32x32",
     "name": "Sondra Fields"
   },
   {
     "id": "644acdf7612040c576f8cea2",
-    "price": "$2,130.22",
+    "price": 2130,
     "picture": "http://placehold.it/32x32",
     "name": "Carrie Johns"
   },
   {
     "id": "644acdf78d32138b59eab330",
-    "price": "$1,004.11",
+    "price": 1004,
     "picture": "http://placehold.it/32x32",
     "name": "Ruthie Espinoza"
   }

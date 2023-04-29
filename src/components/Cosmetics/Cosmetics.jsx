@@ -21,6 +21,7 @@ const Cosmetics = () => {
     }
 
     const total = getTotal(cosmetics);
+
     return (
         <div>
             <h2>Cosmetics: {cosmetics.length}</h2>
