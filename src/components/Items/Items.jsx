@@ -1,18 +1,19 @@
-import React from 'react';
 import "./Items.css"
 
-const Items = (props) => {
-    const { price, picture, name, id } = props.cosmetic;
 
-    const addToCart = (id) => {
-        console.log(id)
-    }
+const Items = ({cosmetic, addToCart, removeCart}) => {
+    const { price, picture, name, id } = cosmetic;
+
+     
     return (
         <div className='card'>
             <img src={picture} alt="" />
             <h3>Name: {name }</h3>
             <p>Price: {price}</p>
-            <button onClick={()=> addToCart(id)}>Add to cart</button>
+            <button onClick={() => addToCart(id)}>Add to cart</button>
+            <br />
+            <br />
+            <button onClick={()=> removeCart(id)}>Remove</button>
         </div>
     );
 };
